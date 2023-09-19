@@ -1,1 +1,1 @@
-# TimeToLearGit
+# TimeToLearnGit
